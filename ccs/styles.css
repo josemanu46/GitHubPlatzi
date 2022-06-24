@@ -10,7 +10,7 @@ body {
     margin: 0 auto;
 }
 #container h1{
-    color: black;
+    color: rgb(0, 0, 0);
 }
 #rama{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
